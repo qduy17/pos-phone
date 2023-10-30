@@ -1,0 +1,3 @@
+sites.js
+//Homepage
+router.get('/homepage',sitesController.homepage);
